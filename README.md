@@ -1,9 +1,9 @@
 
-# 🚗 Vehicle Price Prediction Model
+# Vehicle Price Prediction Model
 
 This project uses Machine Learning to predict vehicle prices based on vehicle characteristics such as make, model, year, mileage, fuel type, transmission, body type, and drivetrain.The model was trained using Scikit-Learn and deployed using Streamlit to provide an interactive web application for vehicle price estimation.
 
-<img src="Image.png" width="900">
+<img src="Image.png" width="500">
 
 ## 🎯 Features
 
